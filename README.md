@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hananiah-Martin
 - 👀 I’m interested in devleoping websites.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate related to web development
+- 💞️ I’m looking to collaborate which is related to web development
 
 
 <!---
