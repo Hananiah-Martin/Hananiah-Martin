@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I'm passionate about crafting efficient, scalable,
 - **Other Skills:** Git, AWS, Cloud Deployment
 
 ## 📫 Let's Connect!
-- [LinkedIn]((https://www.linkedin.com/in/athota-hananiah-martin-12267a248/))
+- [LinkedIn](https://www.linkedin.com/in/athota-hananiah-martin-12267a248/)
 - [Email](mailto:hananiahhoney5@gmail.com)
 
